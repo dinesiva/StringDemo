@@ -87,7 +87,13 @@ public class Collections {
 		a.clear();
 		System.out.println(a);
 	
-	
+		List<Integer> y = new ArrayList();
+		y.add(50);
+		y.add(70);
+		y.add(80);
+		y.add(90);	
+		System.out.println(y);
+		
 	
 	}		
 		
